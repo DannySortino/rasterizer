@@ -7,6 +7,13 @@ An example result image is shown:
 
 ![alt text](https://raw.githubusercontent.com/DannySortino/rasterizer/master/out_0.bmp)
 
+# To compile
+
+To compile, simply run the following command:
+
+gcc -o -Wall main main.c
+
+# To Run
 
 To run a per vetex lighting of the bunny, simply execute:
 
